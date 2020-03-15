@@ -1,6 +1,6 @@
-Frequencia Absoluta,Número de Sinistros
-2913,0
-1587,≤ 1
-326,≤ 2
-102,≤ 3
-72,≤ 4
+Número de Sinistros,Frequencia Abso.,Frequencia Rela.
+0,2913,0.5826
+≤ 1,1587,0.3174
+≤ 2,326,0.0625
+≤ 3,102,0.0204
+≤ 4,72,0.0144
