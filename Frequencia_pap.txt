@@ -1,0 +1,4 @@
+PAP(Programa de Alimentação);Frequência Absoluta;Frequência Relativa
+SIM;24;60% (0,6)
+NÃO;16;40% (0,4)
+Total;40;100% (1,0)

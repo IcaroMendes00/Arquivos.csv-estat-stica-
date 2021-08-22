@@ -1,0 +1,4 @@
+GI (Grau de instrução);Frequência Absoluta;Frequência Relativa
+1 (nenhum grau oficialmente completo);6;15% (0,15)
+2 (primeiro grau completo);11;27,5% (0,275)
+3 (segundo grau completo);23;57,5% (0,575)
